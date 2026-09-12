@@ -1,12 +1,12 @@
 ![Preview](./images/bg.webp)
-<div>
-<a href="https://discord.com/users/254974820243079169"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/254974820243079169?borderRadius=6"></a>
+
+<a href="https://discord.com/users/254974820243079169"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/254974820243079169?hideActivity=true"></a>
 
 
 ### Hi! I'm Wezlem
 
 *SUPER UNEMPLOYED FINAL BOSS*
-</div>
+
 
 ## **About me**
 <a href="https://github.com/wezlem"><img align="left" width="140" src="./images/marin_kya.webp"></a>
