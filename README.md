@@ -1,6 +1,6 @@
 ![Preview](./images/bg.webp)
 
-<a href="https://discord.com/users/254974820243079169"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/254974820243079169?borderRadius=6"></a>
+<a href="https://discord.com/users/254974820243079169"><img align="right" width="325" src="https://lanyard.cnrad.dev/api/254974820243079169?borderRadius=6"></a>
 
 
 ### Hi! I'm Wezlem
