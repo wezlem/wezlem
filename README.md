@@ -31,7 +31,9 @@ There are many more things, little Linux...
 **You can also email me here:** wezlemcan@gmail.com
 
 
-<p align="left">
+## **Remember**
+
+<p align="center">
   <a>
     <img alt="YASASIN CUMHURIYET" src="https://count.getloli.com/@:wezlem?name=%3Awezlem&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=29101923">
   </a>
